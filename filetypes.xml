@@ -4,6 +4,7 @@
       <mapping ext="tmpl" type="HTML" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
