@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern="service#two.yml" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="decrypted" type="PLAIN_TEXT" />
