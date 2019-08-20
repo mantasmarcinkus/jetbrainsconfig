@@ -72,5 +72,27 @@
         <env name="PATH" value="$GoBinDirs$" />
       </envs>
     </TaskOptions>
+    <global-watchers>
+      <TaskOptions>
+        <option name="arguments" value="-file $FilePath$" />
+        <option name="checkSyntaxErrors" value="true" />
+        <option name="description" />
+        <option name="exitCodeBehavior" value="ERROR" />
+        <option name="fileExtension" value="go" />
+        <option name="immediateSync" value="true" />
+        <option name="name" value="fmtsp" />
+        <option name="output" value="$FilePath$" />
+        <option name="outputFilters">
+          <array />
+        </option>
+        <option name="outputFromStdout" value="false" />
+        <option name="program" value="$USER_HOME$/Github/GO/bin/fmtsp" />
+        <option name="runOnExternalChanges" value="true" />
+        <option name="scopeName" value="Current File" />
+        <option name="trackOnlyRoot" value="false" />
+        <option name="workingDir" value="" />
+        <envs />
+      </TaskOptions>
+    </global-watchers>
   </component>
 </application>
