@@ -1,5 +1,34 @@
 <application>
   <component name="ScratchConfig">
     <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="s" />
+        <option value="scratch.go" />
+        <option value="scratch.js" />
+        <option value="scratch.sh" />
+        <option value="scratch.ts" />
+        <option value="scratch.sql" />
+        <option value="scratch.txt" />
+        <option value="_scratch.txt" />
+        <option value="scratch.json" />
+        <option value="scratch_1.go" />
+        <option value="scratch_1.sh" />
+        <option value="scratch_2.go" />
+        <option value="scratch_3.go" />
+        <option value="scratch_4.go" />
+        <option value="scratch_5.go" />
+        <option value="scratch_6.go" />
+        <option value="scratch_7.go" />
+        <option value="scratch_8.go" />
+        <option value="scratch_1.sql" />
+        <option value="scratch_2.sql" />
+        <option value="scratch_3.sql" />
+        <option value="scratch_1.json" />
+        <option value="scratch_2.json" />
+        <option value="scratch.gitignore" />
+      </list>
+    </option>
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
